@@ -15,9 +15,9 @@
 
 - Thanks for visiting.
 
-- Enjoy it!! :crocodile: https://github.com/Oykad
+- Enjoy it!! :crocodile:
 
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif width="300">
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif width="600">
 
 <!--
 **Oykad/Oykad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

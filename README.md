@@ -16,7 +16,7 @@
 ##
 
 ![Oykad GitHub stats](https://github.com/Oykad/github-stats/blob/master/generated/overview.svg)
-![Top Languages](https://github.com/Oykad/github-stats/blob/master/generated/languages.svg)
+![Top Langs](https://github.com/Oykad/github-stats/blob/master/generated/languages.svg)
 
 - Thanks for visiting.
 

@@ -1,4 +1,4 @@
-### Welcome!
+## Welcome!
 
 ## Hi there, I'm Gabriel Silva 👋
 
@@ -10,8 +10,14 @@
 :video_game: Lover of games and coding :heart:
 
 ## About me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=)](https://github.com/Oykad)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Oykad)](https://github.com/Oykad)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-silva-a28b86221/)]( https://www.linkedin.com/in/gabriel-silva-a28b86221/)
+
+##
+
+![Oykad GitHub stats](https://github.com/Oykad/github-stats/blob/master/generated/overview.svg)
+![Top Languages](https://github.com/Oykad/github-stats/blob/master/generated/languages.svg)
+
 - Thanks for visiting.
 
 - Enjoy it!! :crocodile:

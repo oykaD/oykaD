@@ -1,7 +1,8 @@
-## Welcome!
+# Welcome!
 
-## Hi there, I'm Gabriel Silva 👋
-
+<p align="center">
+Hi there, I'm Gabriel Silva 👋
+</p>
 
 :house_with_garden: I’m from Brazil.
 
@@ -15,14 +16,16 @@
 
 ##
 
-![Oykad GitHub stats](https://github.com/Oykad/github-stats/blob/master/generated/overview.svg)
-![Top Langs](https://github.com/Oykad/github-stats/blob/master/generated/languages.svg)
+![Oykad GitHub stats](https://github.com/Oykad/stats-visualization/blob/master/generated/overview.svg)
+![Top Langs](https://github.com/Oykad/stats-visualization/blob/master/generated/languages.svg)
 
 - Thanks for visiting.
 
 - Enjoy it!! :crocodile:
 
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif width="600">
+<p align="center">
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif width="100%">
+</p>
 
 <!--
 **Oykad/Oykad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,13 +12,12 @@
  
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/Oykad)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/gabriel-silva-a28b86221/)
 
 - Thanks for visiting.
 
 - Enjoy it!! :crocodile: https://github.com/Oykad
 
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif width="30">
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif width="300">
 
 <!--
 **Oykad/Oykad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

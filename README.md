@@ -2,11 +2,11 @@
  
 # Hi there, I'm Gabriel Silva 👋
 
->:house_with_garden: I’m from **Brazil**.
+>🏡 I’m from **Brazil**.
 
->:books: I'm currently learning **Python and JavaScript**
+>📚 I'm currently learning **Python and JavaScript**
 
->:video_game: Lover of **games and coding** :heart:
+>🎮 Lover of **games and coding** 🖤
 
 ## About me
 
@@ -30,7 +30,7 @@
   
 - Thanks for visiting.
 
-- Enjoy it! :crocodile:
+- Enjoy it! 🐊
   
 </div>
 

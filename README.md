@@ -8,6 +8,8 @@
 
 >🎮 Lover of **games and coding** 🖤
 
+>
+
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Oykad)](https://github.com/Oykad)
@@ -15,6 +17,8 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/oykad)](https://www.behance.net/oykad)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&https://www.twitch.tv/dakyo)](https://www.twitch.tv/dakyo)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/dakyo/)](https://steamcommunity.com/id/dakyo/)
+
+>🌐 My website: [em construção]()
 
 ## Languages and Tools
 

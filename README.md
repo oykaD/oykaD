@@ -33,7 +33,7 @@
   
 - Thanks for visiting.
 
-- Enjoy it! 🐊
+- Enjoy it! 
   
 </div>
 

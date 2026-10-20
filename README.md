@@ -19,6 +19,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 <!-- programas:inicio -->
 | Project | What it does | Version |
 | --- | --- | --- |
+| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v0.1` |
 | **Portfolio Website** | My editing portfolio site | `v0.1` |
 <!-- programas:fim -->
 

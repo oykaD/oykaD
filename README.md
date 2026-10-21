@@ -20,6 +20,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | Project | What it does | Version |
 | --- | --- | --- |
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v0.2` |
+| **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.0.3` |
 | **Portfolio Website** | My editing portfolio site | `v0.2` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.05` |
 | **Discord Bots** | Automation for my channels' Discord communities | `v0.1` |

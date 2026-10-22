@@ -1,59 +1,64 @@
-<div align="center"></p>
- 
-# Hi there, I'm Gabriel Silva 👋
+<div align="center">
 
->🏡 I’m from **Brazil**.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0909,100:880808&text=DAKYO&fontColor=f3eeec&fontSize=72&fontAlign=50&fontAlignY=38&desc=Editor%20%C2%B7%20Director%20%C2%B7%20Vibe%20Coder&descAlignY=62&descSize=16" width="100%" alt="Dakyo" />
 
->📚 I'm currently learning **Python and JavaScript**
+<a href="https://github.com/oykaD"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=EF2B36&center=true&vCenter=true&width=520&lines=%2F%2F+Video+editor+%26+YouTube+channel+manager;%2F%2F+Learning+to+vibe+code+with+Claude;%2F%2F+Building+my+own+tools+for+creators" alt="Typing intro" /></a>
 
->🎮 Lover of **games and coding** 🖤
-
->
-
-## About me
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Oykad)](https://github.com/Oykad)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dakyo/)]( https://www.linkedin.com/in/dakyo/)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/oykad)](https://www.behance.net/oykad)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&https://www.twitch.tv/dakyo)](https://www.twitch.tv/dakyo)
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/dakyo/)](https://steamcommunity.com/id/dakyo/)
-
->🌐 **My website:** [em construção]()
-
-## Languages and Tools
-
-![Oykad GitHub stats](https://github.com/Oykad/stats-visualization/blob/master/generated/overview.svg)
-![Top Langs](https://github.com/Oykad/stats-visualization/blob/master/generated/languages.svg)
-
-<!--![Views Counter](https://komarev.com/ghpvc/?username=Oykad)-->
-![Views Counter (Named color)](https://komarev.com/ghpvc/?username=Oykad&color=blueviolet)
-<!--![Views Counter (Hex colors)](https://komarev.com/ghpvc/?username=Oykadname&color=DC145C)-->
-
-<div align="left">
-  
-- Thanks for visiting.
-
-- Enjoy it! 🐊
-  
 </div>
 
-##
+### `// whoami`
 
-<p align="center">
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif width="100%">
-</p>
+Hey, I'm **Gabriel Silva**, aka **Dakyo**, from **Brazil** 🇧🇷
 
-<!--
-**Oykad/Oykad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **video editor, director and YouTube channel manager**. I take a video from script to upload: editing, viral clips, shorts and the thumbnail that gets the click.
 
-Here are some ideas to get you started:
+Lately I've been **learning to vibe code**: I describe what I want, and build it together with AI, mostly **[Claude](https://claude.ai)** (Claude Code). Instead of waiting for the perfect app, I make my own tools for the way I edit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `// what I'm building`
+
+| Project | What it does |
+| --- | --- |
+| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support |
+| **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU |
+| **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes |
+| **YouTube & Kick Downloaders** | Download videos and VODs straight into Premiere-ready files |
+| **Discord Bots** | Automation for my channels' Discord communities |
+| **Portfolio** | My editing portfolio site |
+
+<sub>Most of these are private while they're in progress.</sub>
+
+### `// toolkit`
+
+![Premiere Pro](https://img.shields.io/badge/Pr-Premiere_Pro-0b0909?style=for-the-badge&labelColor=880808)
+![After Effects](https://img.shields.io/badge/Ae-After_Effects-0b0909?style=for-the-badge&labelColor=880808)
+![Photoshop](https://img.shields.io/badge/Ps-Photoshop-0b0909?style=for-the-badge&labelColor=880808)
+![Claude](https://img.shields.io/badge/Claude-0b0909?style=for-the-badge&logo=claude&logoColor=EF2B36)
+![Python](https://img.shields.io/badge/Python-0b0909?style=for-the-badge&logo=python&logoColor=EF2B36)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0909?style=for-the-badge&logo=javascript&logoColor=EF2B36)
+![HTML5](https://img.shields.io/badge/HTML5-0b0909?style=for-the-badge&logo=html5&logoColor=EF2B36)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0b0909?style=for-the-badge&logo=ffmpeg&logoColor=EF2B36)
+![Git](https://img.shields.io/badge/Git-0b0909?style=for-the-badge&logo=git&logoColor=EF2B36)
+
+### `// find me`
+
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-880808?style=for-the-badge&labelColor=0b0909)](https://www.linkedin.com/in/dakyo/)
+[![Behance](https://img.shields.io/badge/Behance-880808?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/oykad)
+[![Twitch](https://img.shields.io/badge/Twitch-880808?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dakyo)
+[![Steam](https://img.shields.io/badge/Steam-880808?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/dakyo/)
+
+🌐 **Portfolio:** coming soon
+
+### `// stats`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/oykaD/stats-visualization/master/generated/overview.svg" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/oykaD/stats-visualization/master/generated/languages.svg" alt="Top languages" />
+
+![Profile views](https://komarev.com/ghpvc/?username=oykaD&color=880808&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:880808,100:0b0909&section=footer" width="100%" alt="" />
+
+<div align="center"><sub>// thanks for stopping by 🐊</sub></div>

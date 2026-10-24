@@ -27,6 +27,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v0.2` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.05` |
+| **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v0.1` |
 <!-- programas:fim -->
 

@@ -19,16 +19,16 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | Project | What it does | Version |
 | --- | --- | --- |
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v0.4.2` |
-| **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.4` |
-| **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v0.2` |
+| **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.4` |
+| **Portfolio Website** | My editing portfolio site | `v0.8` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v0.4` |
+| **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v0.2` |
-| **Checklist Diário** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v0.1` |
+| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v0.1` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.05` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v0.1` |
-| **Portfolio** | My editing portfolio site | `v0.8` |
 
 <sub>Most of these are private while they're in progress.</sub>
 

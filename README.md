@@ -22,7 +22,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v0.4.3` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v0.2` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.0.4` |
-| **Portfolio Website** | My editing portfolio site | `v0.8` |
+| **Portfolio Website** | My editing portfolio site | `v1.0` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v0.4` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v0.2` |

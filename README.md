@@ -19,7 +19,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 <!-- programas:inicio -->
 | Project | What it does | Version |
 | --- | --- | --- |
-| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v0.5.8` |
+| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v0.6.5` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.1` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.0.6` |
 | **Portfolio Website** | My editing portfolio site | `v1.0` |

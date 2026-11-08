@@ -19,19 +19,19 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 <!-- programas:inicio -->
 | Project | What it does | Version |
 | --- | --- | --- |
-| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.1.9` |
+| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.2.4` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.1` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.0.8` |
 | **Portfolio Website** | My editing portfolio site | `v1.0` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v0.5` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v0.3` |
-| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.0.6` |
+| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.0.8` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.05` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0` |
 | **Tab Recorder** | Chrome extension that records browser tabs and splits every song into its own file, built with a friend | `v1.3` |
-| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v0.9` |
+| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.0` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

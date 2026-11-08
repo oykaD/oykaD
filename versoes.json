@@ -1,15 +1,15 @@
 {
-  "Portfolio Website": "v1.0",
-  "Dakyo Studio": "v1.1.9",
-  "ZDR Agent": "v0.05",
-  "Discord Bots": "v1.0",
-  "YouTube Downloader": "v1.0.8",
-  "Vocal Remover": "v0.5",
+  "Dakyo Studio": "v1.2.4",
   "Kick Downloader": "v1.0.1",
-  "Image Upscaler": "v0.3",
+  "YouTube Downloader": "v1.0.8",
+  "Portfolio Website": "v1.0",
+  "Vocal Remover": "v0.5",
   "YouTube Live Downloader": "v0.1",
+  "Image Upscaler": "v0.3",
+  "Kontrol": "v1.0.8",
+  "ZDR Agent": "v0.05",
   "Deadlock Tracker": "planning",
-  "Kontrol": "v1.0.6",
+  "Discord Bots": "v1.0",
   "Tab Recorder": "v1.3",
-  "Voice Cloner": "v0.9"
+  "Voice Cloner": "v1.0"
 }

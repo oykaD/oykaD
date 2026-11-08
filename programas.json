@@ -1,0 +1,15 @@
+[
+  {"nome": "Dakyo Studio", "repo": "oykaD/dakyo-studio", "pasta": "DakyoStudio", "descricao": "Automatic video editor for faceless YouTube channels, with multi-language support"},
+  {"nome": "Kick Downloader", "repo": "oykaD/kick-downloader", "pasta": "Dakyo-Projetos/kick-downloader", "descricao": "Downloads Kick VODs or just the part you need, no website required"},
+  {"nome": "YouTube Downloader", "repo": "oykaD/youtube-downloader", "pasta": "Dakyo-Projetos/youtube-downloader", "descricao": "Downloads YouTube videos straight into Premiere-ready files"},
+  {"nome": "Portfolio Website", "repo": "oykaD/dakyo-portfolio", "pasta": "Dakyo-Projetos/dakyo-portfolio", "descricao": "My editing portfolio site"},
+  {"nome": "Vocal Remover", "repo": "oykaD/vocal-remover", "pasta": "Dakyo-Projetos/vocal-remover", "descricao": "Splits vocals and music from any video or audio with AI, running on my own GPU"},
+  {"nome": "YouTube Live Downloader", "repo": "oykaD/youtube-live-downloader", "pasta": "Dakyo-Projetos/youtube-live-downloader", "descricao": "Grabs clips from YouTube lives while they're still on air, built for clippers"},
+  {"nome": "Image Upscaler", "repo": "oykaD/image-upscaler", "pasta": "Dakyo-Projetos/image-upscaler", "descricao": "AI image enhancer for game frames and thumbnails, with faithful and creative modes"},
+  {"nome": "Kontrol", "repo": "oykaD/kontrol", "pasta": "Dakyo-Projetos/kontrol", "descricao": "Minimal, Notion-style daily dashboard: habits, calendar, projects and goals"},
+  {"nome": "ZDR Agent", "repo": "oykaD/ZDR-Agent", "pasta": "Aktz-NexT", "descricao": "Personal AI agent that learns from every conversation"},
+  {"nome": "Deadlock Tracker", "repo": "oykaD/deadlock-tracker", "pasta": "Dakyo-Projetos/deadlock-tracker", "descricao": "Follows top Deadlock players and turns their replays into 1080p/4K videos"},
+  {"nome": "Discord Bots", "repo": "oykaD/discord-bots", "pasta": "Dakyo-Projetos/discord-bots", "prefixo": "o-cueca-", "descricao": "Automation for my channels' Discord communities"},
+  {"nome": "Tab Recorder", "repo": "YFVF99/tab-recorder", "pasta": "Dakyo-Projetos/tab-recorder", "descricao": "Chrome extension that records browser tabs and splits every song into its own file, built with a friend"},
+  {"nome": "Voice Cloner", "repo": "oykaD/clonador-de-voz", "pasta": "Dakyo-Projetos/clonador-de-voz", "descricao": "Clones voices and narrates scripts on my own GPU, no paid APIs"}
+]

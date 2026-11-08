@@ -31,6 +31,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0` |
 | **Tab Recorder** | Chrome extension that records browser tabs and splits every song into its own file, built with a friend | `v1.3` |
+| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v0.1` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

@@ -37,7 +37,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | Extension | What it does | Version |
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3` |
-| **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v0.8` |
+| **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v0.9` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

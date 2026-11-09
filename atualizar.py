@@ -13,6 +13,9 @@ import re
 import subprocess
 import sys
 
+# A tela do Windows nem sempre aceita "→"; assim o script não trava ao mostrar.
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 AQUI = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.join(os.path.expanduser("~"), "Documents")
 GH = r"C:\Program Files\GitHub CLI\gh.exe"

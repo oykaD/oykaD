@@ -10,7 +10,7 @@
   {"nome": "ZDR Agent", "repo": "oykaD/ZDR-Agent", "pasta": "Aktz-NexT", "descricao": "Personal AI agent that learns from every conversation"},
   {"nome": "Deadlock Tracker", "repo": "oykaD/deadlock-tracker", "pasta": "Dakyo-Projetos/deadlock-tracker", "descricao": "Follows top Deadlock players and turns their replays into 1080p/4K videos"},
   {"nome": "Discord Bots", "repo": "oykaD/discord-bots", "pasta": "Dakyo-Projetos/discord-bots", "prefixo": "o-cueca-", "descricao": "Automation for my channels' Discord communities"},
-  {"nome": "Tab Recorder", "repo": "YFVF99/tab-recorder", "pasta": "Dakyo-Projetos/tab-recorder", "descricao": "Chrome extension that records browser tabs and splits every song into its own file, built with a friend"},
-  {"nome": "YouTube Auto AD", "repo": "oykaD/youtube-auto-ad", "pasta": "Dakyo-Projetos/youtube-auto-ad", "descricao": "Chrome extension that places mid-roll ad slots in YouTube Studio at the interval I choose"},
+  {"nome": "Tab Recorder", "tipo": "extensao", "repo": "YFVF99/tab-recorder", "pasta": "Dakyo-Projetos/tab-recorder", "descricao": "Records browser tabs and splits every song into its own file, built with a friend"},
+  {"nome": "YouTube Auto AD", "tipo": "extensao", "repo": "oykaD/youtube-auto-ad", "pasta": "Dakyo-Projetos/youtube-auto-ad", "descricao": "Places mid-roll ad slots in YouTube Studio at the interval I choose"},
   {"nome": "Voice Cloner", "repo": "oykaD/clonador-de-voz", "pasta": "Dakyo-Projetos/clonador-de-voz", "descricao": "Clones voices and narrates scripts on my own GPU, no paid APIs"}
 ]

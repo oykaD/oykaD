@@ -66,13 +66,23 @@ def ultima_versao(p):
 
 
 def tabela(estado):
-    linhas = ["| Project | What it does | Version |", "| --- | --- | --- |"]
-    for p in programas():
-        v = estado.get(p["nome"])
-        if v is None:
-            continue
-        mostra = "planning" if v == "planning" else f"`{v}`"
-        linhas.append(f"| **{p['nome']}** | {p['descricao']} | {mostra} |")
+    """Programas em cima; extensões do Chrome ("tipo": "extensao") numa tabela separada embaixo."""
+    def montar(cabecalho, lista):
+        linhas = [f"| {cabecalho} | What it does | Version |", "| --- | --- | --- |"]
+        for p in lista:
+            v = estado.get(p["nome"])
+            if v is None:
+                continue
+            mostra = "planning" if v == "planning" else f"`{v}`"
+            linhas.append(f"| **{p['nome']}** | {p['descricao']} | {mostra} |")
+        return linhas
+
+    todos = programas()
+    apps = [p for p in todos if p.get("tipo") != "extensao"]
+    extensoes = [p for p in todos if p.get("tipo") == "extensao"]
+    linhas = montar("Project", apps)
+    if extensoes:
+        linhas += ["", "#### Chrome extensions", ""] + montar("Extension", extensoes)
     return "\n".join(linhas)
 
 

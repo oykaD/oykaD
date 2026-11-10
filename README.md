@@ -38,7 +38,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3` |
 | **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.0` |
-| **Nano Dark Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.1.3` |
+| **Nano Dark Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.1.4` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

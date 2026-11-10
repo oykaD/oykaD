@@ -19,7 +19,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 <!-- programas:inicio -->
 | Project | What it does | Version |
 | --- | --- | --- |
-| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.3.1` |
+| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.3.2` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.1` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.0.8` |
 | **Portfolio Website** | My editing portfolio site | `v1.0` |
@@ -38,7 +38,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3` |
 | **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.0` |
-| **Nano Dark Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.0.1` |
+| **Nano Dark Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.1.0` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

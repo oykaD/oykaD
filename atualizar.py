@@ -17,7 +17,7 @@ import sys
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-DOCS = os.path.join(os.path.expanduser("~"), "Documents")
+DOCS = r"C:\Claude"  # pasta dos projetos (desde 09/11/2026)
 GH = r"C:\Program Files\GitHub CLI\gh.exe"
 INICIO = "<!-- programas:inicio -->"
 FIM = "<!-- programas:fim -->"

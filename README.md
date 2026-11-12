@@ -30,7 +30,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.05` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0` |
-| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.1` |
+| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.2` |
 
 #### Chrome extensions
 

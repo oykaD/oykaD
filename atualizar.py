@@ -5,7 +5,7 @@ Como usar (de qualquer pasta):
     python atualizar.py --teste  -> só mostra o que mudaria, sem enviar nada
 
 Lê a última versão (tag) de cada programa em programas.json, nas pastas do PC.
-Versões do perfil: v0.1.0 ... v0.1.9, v0.2.0 ... v0.9.9, v1.0.0 ... (sem fim).
+Versões do perfil: v0.1.0 ... v0.9.9, v1.0.0 ... v1.0.999, v1.1.0 ... v1.1.999, v1.2.0 ... (igual na v2, v3...).
 """
 import json
 import os
@@ -38,10 +38,11 @@ def programas():
 
 
 def versao_seguinte(tag):
-    """v0.1.9 -> v0.2.0, v0.9.9 -> v1.0.0, v1.2.3 -> v1.2.4."""
+    """v0.1.9 -> v0.2.0, v0.9.9 -> v1.0.0; da v1 em diante: v1.0.999 -> v1.1.0, v1.9.999 -> v2.0.0."""
     a, b, c = (int(x) for x in tag.lstrip("v").split("."))
+    limite = 9 if a == 0 else 999
     c += 1
-    if c > 9:
+    if c > limite:
         c, b = 0, b + 1
     if b > 9:
         b, a = 0, a + 1

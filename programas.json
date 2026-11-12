@@ -13,5 +13,5 @@
   {"nome": "Tab Recorder", "tipo": "extensao", "repo": "YFVF99/tab-recorder", "pasta": "5 Extensões/Tab Recorder", "descricao": "Records browser tabs and splits every song into its own file, built with a friend"},
   {"nome": "YouTube Auto AD", "tipo": "extensao", "repo": "oykaD/youtube-auto-ad", "pasta": "5 Extensões/YouTube Auto AD", "descricao": "Places mid-roll ad slots in YouTube Studio at the interval I choose"},
   {"nome": "Voice Cloner", "repo": "oykaD/clonador-de-voz", "pasta": "2 Edição/Clonador de Voz", "descricao": "Clones voices and narrates scripts on my own GPU, no paid APIs"},
-  {"nome": "Nano Prompter", "tipo": "extensao", "repo": "oykaD/nano-prompter", "pasta": "5 Extensões/Nano Dark Prompter", "descricao": "Fills Google Flow with ready-made image and video prompts from my channels' repos"}
+  {"nome": "Nano Prompter", "tipo": "extensao", "repo": "oykaD/nano-prompter", "pasta": "5 Extensões/Nano Prompter", "descricao": "Fills Google Flow with ready-made image and video prompts from my channels' repos"}
 ]

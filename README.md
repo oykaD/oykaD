@@ -26,7 +26,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v0.5` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v0.3` |
-| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.2.2` |
+| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.2.3` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.05` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0` |
@@ -38,7 +38,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3` |
 | **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.0` |
-| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.1.19` |
+| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.3.7` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

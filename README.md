@@ -28,6 +28,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v0.3` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.2.4` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.05` |
+| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v0.1` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0` |
 | **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.3` |
@@ -38,7 +39,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3` |
 | **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.0` |
-| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.3.7` |
+| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.3.8` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

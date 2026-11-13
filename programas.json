@@ -8,6 +8,7 @@
   {"nome": "Image Upscaler", "repo": "oykaD/image-upscaler", "pasta": "4 Programas de apoio/Image Upscaler", "descricao": "AI image enhancer for game frames and thumbnails, with faithful and creative modes"},
   {"nome": "Kontrol", "repo": "oykaD/kontrol", "pasta": "4 Programas de apoio/Kontrol", "descricao": "Minimal, Notion-style daily dashboard: habits, calendar, projects and goals"},
   {"nome": "ZDR Agent", "repo": "oykaD/ZDR-Agent", "pasta": "4 Programas de apoio/ZDR Agent", "descricao": "Personal AI agent that learns from every conversation"},
+  {"nome": "Zipa", "repo": "oykaD/zipa", "pasta": "3 Programas de apoio/Zipa", "descricao": "My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu"},
   {"nome": "Deadlock Tracker", "repo": "oykaD/deadlock-tracker", "pasta": "6 Projetos futuros/Deadlock Tracker", "descricao": "Follows top Deadlock players and turns their replays into 1080p/4K videos"},
   {"nome": "Discord Bots", "repo": "oykaD/discord-bots", "pasta": "7 Outros/Discord Bots", "prefixo": "o-cueca-", "descricao": "Automation for my channels' Discord communities"},
   {"nome": "Tab Recorder", "tipo": "extensao", "repo": "YFVF99/tab-recorder", "pasta": "5 Extensões/Tab Recorder", "descricao": "Records browser tabs and splits every song into its own file, built with a friend"},

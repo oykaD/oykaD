@@ -26,7 +26,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v0.5` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v0.3` |
-| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.2.4` |
+| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.2.5` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.05` |
 | **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v0.1` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |

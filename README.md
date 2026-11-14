@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0909,100:880808&text=DAKYO&fontColor=f3eeec&fontSize=72&fontAlign=50&fontAlignY=38&desc=Editor%20%C2%B7%20Director%20%C2%B7%20Vibe%20Coder&descAlignY=62&descSize=16" width="100%" alt="Dakyo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0909,100:880808&text=DAKYO&fontColor=f3eeec&fontSize=72&fontAlign=50&fontAlignY=38&desc=Editor%20%C2%B7%20Director%20%C2%B7%20Thumbmaker%20%C2%B7%20Vibe%20Coder&descAlignY=62&descSize=16" width="100%" alt="Dakyo" />
 
-<a href="https://github.com/oykaD"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=EF2B36&center=true&vCenter=true&width=520&lines=%2F%2F+Video+editor+%26+YouTube+channel+manager;%2F%2F+Learning+to+vibe+code+with+Claude;%2F%2F+Building+my+own+tools+for+creators;%2F%2F+Teaching+Claude+to+edit+in+Adobe+apps" alt="Typing intro" /></a>
+<a href="https://github.com/oykaD"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=EF2B36&center=true&vCenter=true&width=520&lines=%2F%2F+Video+editor+%26+YouTube+channel+manager;%2F%2F+Thumbmaker%3A+thumbnails+that+get+the+click;%2F%2F+Learning+to+vibe+code+with+Claude;%2F%2F+Building+my+own+tools+for+creators;%2F%2F+Teaching+Claude+to+edit+in+Adobe+apps" alt="Typing intro" /></a>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 Hey, I'm **Gabriel Silva**, aka **Dakyo**, from **Brazil** 🇧🇷
 
-I'm a **video editor, director and YouTube channel manager**. I take a video from script to upload: editing, viral clips, shorts and the thumbnail that gets the click.
+I'm a **video editor, director, thumbmaker and YouTube channel manager**. I take a video from script to upload: editing, viral clips, shorts and the thumbnail that gets the click.
 
 Lately I've been **learning to vibe code**: I describe what I want, and build it together with AI, mostly **[Claude](https://claude.ai)** (Claude Code). Instead of waiting for the perfect app, I make my own tools for the way I edit.
 

@@ -55,7 +55,10 @@ def ultima_tag_perfil():
 
 
 def ultima_versao(p):
-    """Última tag do programa, ou 'planning' se ainda não tem nenhuma."""
+    """Última tag do programa, ou 'planning' se ainda não tem nenhuma.
+    Sem pasta no PC (projeto que ainda vai começar, como os MCPs): 'in development'."""
+    if not p.get("pasta") or not os.path.isdir(os.path.join(DOCS, p["pasta"])):
+        return "in development"
     pasta = os.path.join(DOCS, p["pasta"])
     prefixo = p.get("prefixo", "")
     try:
@@ -67,21 +70,25 @@ def ultima_versao(p):
 
 
 def tabela(estado):
-    """Programas em cima; extensões do Chrome ("tipo": "extensao") numa tabela separada embaixo."""
+    """Programas em cima; depois os MCPs ("tipo": "mcp") e as extensões do Chrome ("tipo": "extensao")."""
     def montar(cabecalho, lista):
         linhas = [f"| {cabecalho} | What it does | Version |", "| --- | --- | --- |"]
         for p in lista:
             v = estado.get(p["nome"])
             if v is None:
                 continue
-            mostra = "planning" if v == "planning" else f"`{v}`"
+            mostra = v if not v.startswith("v") else f"`{v}`"
             linhas.append(f"| **{p['nome']}** | {p['descricao']} | {mostra} |")
         return linhas
 
     todos = programas()
-    apps = [p for p in todos if p.get("tipo") != "extensao"]
+    apps = [p for p in todos if p.get("tipo") not in ("extensao", "mcp")]
+    mcps = [p for p in todos if p.get("tipo") == "mcp"]
     extensoes = [p for p in todos if p.get("tipo") == "extensao"]
     linhas = montar("Project", apps)
+    if mcps:
+        linhas += ["", "#### MCP servers", "",
+                   "<sub>Bridges that let Claude work inside my Adobe apps, the way I edit.</sub>", ""] + montar("MCP", mcps)
     if extensoes:
         linhas += ["", "#### Chrome extensions", ""] + montar("Extension", extensoes)
     return "\n".join(linhas)
@@ -110,7 +117,7 @@ def mudancas(antigo, novo):
 def textos(itens):
     """Título curto e lista de mudanças em português."""
     def fmt(v):
-        return "em planejamento" if v == "planning" else v
+        return {"planning": "em planejamento", "in development": "em criação"}.get(v, v)
     linhas = []
     for n, a, v in itens:
         if a is None:

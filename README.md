@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0909,100:880808&text=DAKYO&fontColor=f3eeec&fontSize=72&fontAlign=50&fontAlignY=38&desc=Editor%20%C2%B7%20Director%20%C2%B7%20Vibe%20Coder&descAlignY=62&descSize=16" width="100%" alt="Dakyo" />
 
-<a href="https://github.com/oykaD"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=EF2B36&center=true&vCenter=true&width=520&lines=%2F%2F+Video+editor+%26+YouTube+channel+manager;%2F%2F+Learning+to+vibe+code+with+Claude;%2F%2F+Building+my+own+tools+for+creators" alt="Typing intro" /></a>
+<a href="https://github.com/oykaD"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=EF2B36&center=true&vCenter=true&width=520&lines=%2F%2F+Video+editor+%26+YouTube+channel+manager;%2F%2F+Learning+to+vibe+code+with+Claude;%2F%2F+Building+my+own+tools+for+creators;%2F%2F+Teaching+Claude+to+edit+in+Adobe+apps" alt="Typing intro" /></a>
 
 </div>
 
@@ -13,6 +13,8 @@ Hey, I'm **Gabriel Silva**, aka **Dakyo**, from **Brazil** 🇧🇷
 I'm a **video editor, director and YouTube channel manager**. I take a video from script to upload: editing, viral clips, shorts and the thumbnail that gets the click.
 
 Lately I've been **learning to vibe code**: I describe what I want, and build it together with AI, mostly **[Claude](https://claude.ai)** (Claude Code). Instead of waiting for the perfect app, I make my own tools for the way I edit.
+
+Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects and Photoshop**, so Claude can work right inside the apps I edit with.
 
 ### `// what I'm building`
 
@@ -33,6 +35,16 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0` |
 | **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.3` |
 
+#### MCP servers
+
+<sub>Bridges that let Claude work inside my Adobe apps, the way I edit.</sub>
+
+| MCP | What it does | Version |
+| --- | --- | --- |
+| **After Effects MCP** | Lets Claude build and check my After Effects scenes, built with a friend | in development |
+| **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines, built with a friend | in development |
+| **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop, built with a friend | in development |
+
 #### Chrome extensions
 
 | Extension | What it does | Version |
@@ -50,6 +62,7 @@ Lately I've been **learning to vibe code**: I describe what I want, and build it
 ![After Effects](https://img.shields.io/badge/Ae-After_Effects-0b0909?style=for-the-badge&labelColor=880808)
 ![Photoshop](https://img.shields.io/badge/Ps-Photoshop-0b0909?style=for-the-badge&labelColor=880808)
 ![Claude](https://img.shields.io/badge/Claude-0b0909?style=for-the-badge&logo=claude&logoColor=EF2B36)
+![MCP](https://img.shields.io/badge/MCP-0b0909?style=for-the-badge&logo=modelcontextprotocol&logoColor=EF2B36)
 ![Python](https://img.shields.io/badge/Python-0b0909?style=for-the-badge&logo=python&logoColor=EF2B36)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b0909?style=for-the-badge&logo=javascript&logoColor=EF2B36)
 ![HTML5](https://img.shields.io/badge/HTML5-0b0909?style=for-the-badge&logo=html5&logoColor=EF2B36)

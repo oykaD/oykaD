@@ -17,5 +17,5 @@
   {"nome": "Nano Prompter", "tipo": "extensao", "repo": "oykaD/nano-prompter", "pasta": "6 Extensões/Nano Prompter", "descricao": "Fills Google Flow with ready-made image and video prompts from my channels' repos"},
   {"nome": "After Effects MCP", "tipo": "mcp", "repo": "oykaD/after-effects-mcp", "descricao": "Lets Claude build and check my After Effects scenes, built with a friend"},
   {"nome": "Premiere Pro MCP", "tipo": "mcp", "repo": "oykaD/premiere-pro-mcp", "pasta": "4 MCP/Premiere Pro MCP", "descricao": "Lets Claude cut, arrange and export my Premiere Pro timelines, built with a friend"},
-  {"nome": "Photoshop MCP", "tipo": "mcp", "repo": "oykaD/photoshop-mcp", "descricao": "Lets Claude design and retouch my thumbnails in Photoshop, built with a friend"}
+  {"nome": "Photoshop MCP", "tipo": "mcp", "repo": "oykaD/photoshop-mcp", "pasta": "4 MCP/Photoshop MCP", "descricao": "Lets Claude design and retouch my thumbnails in Photoshop, built with a friend"}
 ]

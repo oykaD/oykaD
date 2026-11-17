@@ -43,7 +43,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | MCP | What it does | Version |
 | --- | --- | --- |
 | **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.0.5` |
-| **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.0.4` |
+| **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.0.5` |
 | **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.0.3` |
 
 #### Chrome extensions

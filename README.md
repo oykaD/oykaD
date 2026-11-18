@@ -22,7 +22,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | Project | What it does | Version |
 | --- | --- | --- |
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.3.6` |
-| **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.4` |
+| **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.5` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.3` |
 | **Portfolio Website** | My editing portfolio site | `v1.0.2` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v0.9` |

@@ -34,7 +34,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v0.2` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0.2` |
-| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.5` |
+| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.6` |
 
 #### MCP servers
 

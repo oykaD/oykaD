@@ -23,11 +23,11 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | --- | --- | --- |
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.3.7` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.8` |
-| **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v0.2` |
+| **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v0.3` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.4` |
 | **Portfolio Website** | My editing portfolio site | `v1.0.2` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0` |
-| **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
+| **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.2` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.5` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.5.0` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0` |

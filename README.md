@@ -29,7 +29,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.5` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.5.0` |
-| **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.9` |
+| **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0` |
 | **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v0.9` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |

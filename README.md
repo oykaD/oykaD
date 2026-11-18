@@ -35,6 +35,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0.2` |
 | **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.8` |
+| **Mr. Dakyo Wheel (Premiere)** | GTA-style tool wheel for Premiere Pro: hold Ctrl + right-click and pick an action | `v0.1` |
 
 #### MCP servers
 

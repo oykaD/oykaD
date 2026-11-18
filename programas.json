@@ -1,8 +1,8 @@
 [
   {"nome": "Dakyo Studio", "repo": "oykaD/dakyo-studio", "pasta": "3 Programas de apoio/Dakyo Studio", "descricao": "Automatic video editor for faceless YouTube channels, with multi-language support"},
   {"nome": "Kick Downloader", "repo": "oykaD/kick-downloader", "pasta": "3 Programas de apoio/Kick Downloader", "descricao": "Downloads Kick VODs or just the part you need, no website required"},
-  {"nome": "Social Media Downloader", "repo": "oykaD/social-media-downloader", "pasta": "3 Programas de apoio/Social Media Downloader", "descricao": "Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere"},
   {"nome": "YouTube Downloader", "repo": "oykaD/youtube-downloader", "pasta": "3 Programas de apoio/YouTube Downloader", "descricao": "Downloads YouTube videos straight into Premiere-ready files"},
+  {"nome": "Social Media Downloader", "repo": "oykaD/social-media-downloader", "pasta": "3 Programas de apoio/Social Media Downloader", "descricao": "Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere"},
   {"nome": "Portfolio Website", "repo": "oykaD/dakyo-portfolio", "pasta": "8 Portfólio/Dakyo Portfolio", "descricao": "My editing portfolio site"},
   {"nome": "Vocal Remover", "repo": "oykaD/vocal-remover", "pasta": "3 Programas de apoio/Vocal Remover", "descricao": "Splits vocals and music from any video or audio with AI, running on my own GPU"},
   {"nome": "YouTube Live Downloader", "repo": "oykaD/youtube-live-downloader", "pasta": "3 Programas de apoio/YouTube Live Downloader", "descricao": "Grabs clips from YouTube lives while they're still on air, built for clippers"},

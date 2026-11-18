@@ -24,7 +24,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.3.7` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.8` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.4` |
-| **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v0.5` |
+| **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v0.6` |
 | **Portfolio Website** | My editing portfolio site | `v1.0.2` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.5` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.5` |

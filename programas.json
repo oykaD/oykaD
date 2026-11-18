@@ -18,6 +18,7 @@
   {"nome": "Voice Cloner", "repo": "oykaD/clonador-de-voz", "pasta": "3 Programas de apoio/Clonador de Voz", "descricao": "Clones voices and narrates scripts on my own GPU, no paid APIs"},
   {"nome": "Nano Prompter", "tipo": "extensao", "repo": "oykaD/nano-prompter", "pasta": "6 Extensões/Nano Prompter", "descricao": "Fills Google Flow with ready-made image and video prompts from my channels' repos"},
   {"nome": "Mr. Dakyo Wheel (Premiere)", "repo": "oykaD/mr-dakyo-wheel-premiere", "pasta": "5 Plugins/Mr. Dakyo Wheel Plugin - Premiere", "descricao": "GTA-style tool wheel for Premiere Pro: hold Ctrl + right-click and pick an action"},
+  {"nome": "Mr. Dakyo Wheel (After Effects)", "repo": "oykaD/mr-dakyo-wheel-after", "pasta": "5 Plugins/Mr. Dakyo Wheel Plugin - After", "descricao": "GTA-style tool wheel for After Effects: hold Ctrl + right-click and pick an action"},
   {"nome": "After Effects MCP", "tipo": "mcp", "repo": "oykaD/after-effects-mcp", "pasta": "4 MCP/After Effects MCP", "descricao": "Lets Claude build and check my After Effects scenes"},
   {"nome": "Premiere Pro MCP", "tipo": "mcp", "repo": "oykaD/premiere-pro-mcp", "pasta": "4 MCP/Premiere Pro MCP", "descricao": "Lets Claude cut, arrange and export my Premiere Pro timelines"},
   {"nome": "Photoshop MCP", "tipo": "mcp", "repo": "oykaD/photoshop-mcp", "pasta": "4 MCP/Photoshop MCP", "descricao": "Lets Claude design and retouch my thumbnails in Photoshop"}

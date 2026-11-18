@@ -22,7 +22,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | Project | What it does | Version |
 | --- | --- | --- |
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.3.7` |
-| **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.6` |
+| **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.7` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.4` |
 | **Portfolio Website** | My editing portfolio site | `v1.0.2` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0` |
@@ -30,7 +30,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.5` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.5.0` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.9` |
-| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v0.9` |
+| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v0.4` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0.2` |

@@ -29,15 +29,13 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v0.2` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.5` |
+| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.8` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.5.0` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0` |
-| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.0` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0.2` |
-| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.8` |
-| **Mr. Dakyo Wheel (Premiere)** | GTA-style tool wheel for Premiere Pro: hold Ctrl + right-click and pick an action | `v0.1` |
-| **Mr. Dakyo Wheel (After Effects)** | GTA-style tool wheel for After Effects: hold Ctrl + right-click and pick an action | `v0.1` |
+| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0` |
 
 #### MCP servers
 
@@ -48,6 +46,13 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.0.9` |
 | **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.1.1` |
 | **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.0.7` |
+
+#### Plugins
+
+| Plugin | What it does | Version |
+| --- | --- | --- |
+| **Mr. Dakyo Wheel (Premiere)** | GTA-style tool wheel for Premiere Pro: hold Ctrl + right-click and pick an action | `v0.1` |
+| **Mr. Dakyo Wheel (After Effects)** | GTA-style tool wheel for After Effects: hold Ctrl + right-click and pick an action | `v0.1` |
 
 #### Chrome extensions
 

@@ -37,6 +37,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0.2` |
 | **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.1.8` |
 | **Mr. Dakyo Wheel (Premiere)** | GTA-style tool wheel for Premiere Pro: hold Ctrl + right-click and pick an action | `v0.1` |
+| **Mr. Dakyo Wheel (After Effects)** | GTA-style tool wheel for After Effects: hold Ctrl + right-click and pick an action | `v0.1` |
 
 #### MCP servers
 

@@ -12,7 +12,6 @@
   {"nome": "ZDR Agent", "repo": "oykaD/ZDR-Agent", "pasta": "3 Programas de apoio/ZDR Agent", "descricao": "Personal AI agent that learns from every conversation"},
   {"nome": "Compressor", "repo": "oykaD/compressor", "pasta": "3 Programas de apoio/Compressor", "descricao": "Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail"},
   {"nome": "Deadlock Tracker", "repo": "oykaD/deadlock-tracker", "pasta": "9 Projetos futuros/Deadlock Tracker", "descricao": "Follows top Deadlock players and turns their replays into 1080p/4K videos"},
-  {"nome": "Discord Bots", "repo": "oykaD/discord-bots", "pasta": "7 Bots/Discord Bots", "prefixo": "o-cueca-", "descricao": "Automation for my channels' Discord communities"},
   {"nome": "Zipa", "repo": "oykaD/zipa", "pasta": "3 Programas de apoio/Zipa", "descricao": "My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu"},
   {"nome": "Tab Recorder", "tipo": "extensao", "repo": "YFVF99/tab-recorder", "pasta": "6 Extensões/Tab Recorder", "descricao": "Records browser tabs and splits every song into its own file, built with a friend"},
   {"nome": "YouTube Auto AD", "tipo": "extensao", "repo": "oykaD/youtube-auto-ad", "pasta": "6 Extensões/YouTube Auto AD", "descricao": "Places mid-roll ad slots in YouTube Studio at the interval I choose"},
@@ -21,5 +20,6 @@
   {"nome": "Mr. Dakyo Wheel (After Effects)", "tipo": "plugin", "repo": "oykaD/mr-dakyo-wheel-after", "pasta": "5 Plugins/Mr. Dakyo Wheel Plugin - After", "descricao": "GTA-style tool wheel for After Effects: hold Ctrl + right-click and pick an action"},
   {"nome": "After Effects MCP", "tipo": "mcp", "repo": "oykaD/after-effects-mcp", "pasta": "4 MCP/After Effects MCP", "descricao": "Lets Claude build and check my After Effects scenes"},
   {"nome": "Premiere Pro MCP", "tipo": "mcp", "repo": "oykaD/premiere-pro-mcp", "pasta": "4 MCP/Premiere Pro MCP", "descricao": "Lets Claude cut, arrange and export my Premiere Pro timelines"},
-  {"nome": "Photoshop MCP", "tipo": "mcp", "repo": "oykaD/photoshop-mcp", "pasta": "4 MCP/Photoshop MCP", "descricao": "Lets Claude design and retouch my thumbnails in Photoshop"}
+  {"nome": "Photoshop MCP", "tipo": "mcp", "repo": "oykaD/photoshop-mcp", "pasta": "4 MCP/Photoshop MCP", "descricao": "Lets Claude design and retouch my thumbnails in Photoshop"},
+  {"nome": "O Cueca", "tipo": "bot", "repo": "oykaD/discord-bots", "pasta": "7 Bots/Discord Bots", "prefixo": "o-cueca-", "descricao": "Discord bot for the O Cueca channel community"}
 ]

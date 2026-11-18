@@ -70,7 +70,7 @@ def ultima_versao(p):
 
 
 def tabela(estado):
-    """Programas em cima; depois os MCPs ("tipo": "mcp"), os plugins ("tipo": "plugin") e as extensões do Chrome ("tipo": "extensao")."""
+    """Programas em cima; depois os MCPs ("tipo": "mcp"), os plugins ("tipo": "plugin"), as extensões do Chrome ("tipo": "extensao") e os bots do Discord ("tipo": "bot")."""
     def montar(cabecalho, lista):
         linhas = [f"| {cabecalho} | What it does | Version |", "| --- | --- | --- |"]
         for p in lista:
@@ -82,10 +82,11 @@ def tabela(estado):
         return linhas
 
     todos = programas()
-    apps = [p for p in todos if p.get("tipo") not in ("extensao", "mcp", "plugin")]
+    apps = [p for p in todos if p.get("tipo") not in ("extensao", "mcp", "plugin", "bot")]
     mcps = [p for p in todos if p.get("tipo") == "mcp"]
     plugins = [p for p in todos if p.get("tipo") == "plugin"]
     extensoes = [p for p in todos if p.get("tipo") == "extensao"]
+    bots = [p for p in todos if p.get("tipo") == "bot"]
     linhas = montar("Project", apps)
     if mcps:
         linhas += ["", "#### MCP servers", "",
@@ -94,6 +95,8 @@ def tabela(estado):
         linhas += ["", "#### Plugins", ""] + montar("Plugin", plugins)
     if extensoes:
         linhas += ["", "#### Chrome extensions", ""] + montar("Extension", extensoes)
+    if bots:
+        linhas += ["", "#### Discord bots", ""] + montar("Bot", bots)
     return "\n".join(linhas)
 
 

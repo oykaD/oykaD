@@ -70,7 +70,7 @@ def ultima_versao(p):
 
 
 def tabela(estado):
-    """Programas em cima; depois os MCPs ("tipo": "mcp") e as extensões do Chrome ("tipo": "extensao")."""
+    """Programas em cima; depois os MCPs ("tipo": "mcp"), os plugins ("tipo": "plugin") e as extensões do Chrome ("tipo": "extensao")."""
     def montar(cabecalho, lista):
         linhas = [f"| {cabecalho} | What it does | Version |", "| --- | --- | --- |"]
         for p in lista:
@@ -82,13 +82,16 @@ def tabela(estado):
         return linhas
 
     todos = programas()
-    apps = [p for p in todos if p.get("tipo") not in ("extensao", "mcp")]
+    apps = [p for p in todos if p.get("tipo") not in ("extensao", "mcp", "plugin")]
     mcps = [p for p in todos if p.get("tipo") == "mcp"]
+    plugins = [p for p in todos if p.get("tipo") == "plugin"]
     extensoes = [p for p in todos if p.get("tipo") == "extensao"]
     linhas = montar("Project", apps)
     if mcps:
         linhas += ["", "#### MCP servers", "",
                    "<sub>Bridges that let Claude work inside my Adobe apps, the way I edit.</sub>", ""] + montar("MCP", mcps)
+    if plugins:
+        linhas += ["", "#### Plugins", ""] + montar("Plugin", plugins)
     if extensoes:
         linhas += ["", "#### Chrome extensions", ""] + montar("Extension", extensoes)
     return "\n".join(linhas)

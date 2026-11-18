@@ -4,7 +4,7 @@
   "YouTube Downloader": "v1.1.4",
   "Social Media Downloader": "v0.4",
   "Portfolio Website": "v1.0.2",
-  "YouTube Live Downloader": "v0.4",
+  "YouTube Live Downloader": "v0.5",
   "Image Upscaler": "v1.0.5",
   "Voice Cloner": "v1.1.8",
   "Vocal Remover": "v1.0",
@@ -12,7 +12,6 @@
   "ZDR Agent": "v1.0",
   "Compressor": "v1.0",
   "Deadlock Tracker": "planning",
-  "O Cueca": "v1.0.2",
   "Zipa": "v1.0.1",
   "Tab Recorder": "v1.3.2",
   "YouTube Auto AD": "v1.0.2",
@@ -21,5 +20,6 @@
   "Mr. Dakyo Wheel (After Effects)": "v0.1",
   "After Effects MCP": "v1.0.9",
   "Premiere Pro MCP": "v1.1.1",
-  "Photoshop MCP": "v1.0.7"
+  "Photoshop MCP": "v1.0.7",
+  "O Cueca": "v1.0.2"
 }

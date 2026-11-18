@@ -30,7 +30,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.5` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.5.0` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v0.9` |
-| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v0.8` |
+| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v0.9` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v0.2` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Discord Bots** | Automation for my channels' Discord communities | `v1.0.2` |

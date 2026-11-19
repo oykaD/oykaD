@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-label="Hanafuda earring">
+<title>Hanafuda earring</title>
+<style>
+  .pendulo { animation: pendulo 3.4s ease-in-out infinite alternate; transform-origin: 0 0; }
+  .leve { animation: leve 4.2s ease-in-out infinite alternate; transform-origin: 0 0; }
+  .brilho { animation: brilho 6s ease-in-out infinite; }
+  .aura { animation: aura 4s ease-in-out infinite alternate; }
+  @keyframes pendulo { from { transform: rotate(-13deg); } to { transform: rotate(13deg); } }
+  @keyframes leve { from { transform: rotate(-3.5deg); } to { transform: rotate(3.5deg); } }
+  @keyframes brilho { 0%, 55% { transform: translateX(0); } 100% { transform: translateX(980px); } }
+  @keyframes aura { from { opacity: .35; } to { opacity: .7; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g transform="translate(100,10) scale(1.0)"><g class="pendulo" style="animation-delay:-0.0s">
+  <defs>
+    <linearGradient id="pratac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8d949d"/><stop offset=".45" stop-color="#f4f6f8"/><stop offset="1" stop-color="#7d848d"/>
+    </linearGradient>
+    <radialGradient id="solc" cx=".42" cy=".36" r=".75">
+      <stop offset="0" stop-color="#ff3a1c"/><stop offset=".65" stop-color="#f01a0a"/><stop offset="1" stop-color="#d81205"/>
+    </radialGradient>
+    <linearGradient id="morroc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9d0f0"/><stop offset="1" stop-color="#bcdcf6"/>
+    </linearGradient>
+  </defs>
+  <!-- gancho de prata: anzol, molinha, bolinha e argolas -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M9.5,25 C10.5,10 8,0.2 3.2,0.2 C-1.6,0.2 -1.8,9 -0.6,23" stroke="#5f6670" stroke-width="2.3"/>
+    <path d="M9.5,25 C10.5,10 8,0.2 3.2,0.2 C-1.6,0.2 -1.8,9 -0.6,23" stroke="#dfe3e8" stroke-width="1.4"/>
+    <g stroke="#5f6670" stroke-width="1.9"><ellipse cx="0" cy="24.6" rx="2.5" ry="1.15"/><ellipse cx="0" cy="26.5" rx="2.5" ry="1.15"/><ellipse cx="0" cy="28.4" rx="2.5" ry="1.15"/><ellipse cx="0" cy="30.3" rx="2.5" ry="1.15"/><ellipse cx="0" cy="32.2" rx="2.5" ry="1.15"/></g>
+    <g stroke="#e3e6ea" stroke-width="1"><ellipse cx="0" cy="24.6" rx="2.5" ry="1.15"/><ellipse cx="0" cy="26.5" rx="2.5" ry="1.15"/><ellipse cx="0" cy="28.4" rx="2.5" ry="1.15"/><ellipse cx="0" cy="30.3" rx="2.5" ry="1.15"/><ellipse cx="0" cy="32.2" rx="2.5" ry="1.15"/></g>
+  </g>
+  <circle cx="0" cy="36.6" r="2.9" fill="url(#pratac)" stroke="#5f6670" stroke-width=".5"/>
+  <ellipse cx="0" cy="41.6" rx="1.7" ry="2.3" fill="none" stroke="#5f6670" stroke-width="1.7"/>
+  <ellipse cx="0" cy="41.6" rx="1.7" ry="2.3" fill="none" stroke="#dfe3e8" stroke-width=".9"/>
+  <!-- placa preta -->
+  <rect x="-30" y="48" width="60" height="148" rx="1.4" fill="#17161a"/>
+  <rect x="-30.7" y="47.3" width="61.4" height="149.4" rx="2" fill="none" stroke="#8a8d96" stroke-width=".6" opacity=".75"/>
+  <!-- branco recortado e raios -->
+  <rect x="-28.0" y="56.5" width="56.0" height="122.5" fill="#fbfaf8"/>
+  <g stroke="#17161a" stroke-width="1.45"><line x1="0" y1="70.5" x2="-15" y2="56.5"/><line x1="0" y1="70.5" x2="15" y2="56.5"/><line x1="0" y1="70.5" x2="-28.0" y2="62"/><line x1="0" y1="70.5" x2="28.0" y2="62"/><line x1="0" y1="70.5" x2="-28.0" y2="76"/><line x1="0" y1="70.5" x2="28.0" y2="76"/><line x1="0" y1="70.5" x2="-28.0" y2="93"/><line x1="0" y1="70.5" x2="28.0" y2="93"/><line x1="0" y1="70.5" x2="-28.0" y2="116"/><line x1="0" y1="70.5" x2="28.0" y2="116"/><line x1="0" y1="70.5" x2="-20" y2="149"/><line x1="0" y1="70.5" x2="20" y2="149"/><line x1="0" y1="70.5" x2="0" y2="144"/></g>
+  <rect x="-30" y="48" width="2.0" height="148" fill="#17161a"/>
+  <rect x="28.0" y="48" width="2.0" height="148" fill="#17161a"/>
+  <!-- morro azul, liso -->
+  <path d="M-27.3,179 L-27.3,162 A27.3,21.0 0 0 1 27.3,162 L27.3,179 Z" fill="url(#morroc)" stroke="#17161a" stroke-width="1.45" stroke-linejoin="round"/>
+  <rect x="-30" y="179" width="60" height="17" fill="#17161a"/>
+  <!-- sol -->
+  <circle cx="0" cy="70.5" r="12.6" fill="url(#solc)" stroke="#17161a" stroke-width="1.2"/>
+  <!-- furo e argola -->
+  <circle cx="0" cy="52" r="1.9" fill="#4a4a52"/>
+  <ellipse cx="0" cy="48.6" rx="2.6" ry="3.9" fill="none" stroke="#5f6670" stroke-width="1.8"/>
+  <ellipse cx="0" cy="48.6" rx="2.6" ry="3.9" fill="none" stroke="#dfe3e8" stroke-width="1"/>
+</g></g>
+</svg>

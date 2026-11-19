@@ -51,7 +51,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 | Plugin | What it does | Version |
 | --- | --- | --- |
-| **Mr. Dakyo Wheel (Premiere)** | GTA-style tool wheel for Premiere Pro: hold Ctrl + right-click and pick an action | `v0.4` |
+| **Mr. Dakyo Wheel (Premiere)** | GTA-style tool wheel for Premiere Pro: hold Ctrl + right-click and pick an action | `v0.5` |
 | **Mr. Dakyo Wheel (After Effects)** | GTA-style tool wheel for After Effects: hold Ctrl + right-click and pick an action | `v0.1` |
 
 #### Chrome extensions

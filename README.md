@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0909,100:880808&text=DAKYO&fontColor=f3eeec&fontSize=72&fontAlign=50&fontAlignY=38&desc=Editor%20%C2%B7%20Director%20%C2%B7%20Thumbmaker%20%C2%B7%20Vibe%20Coder&descAlignY=62&descSize=16" width="100%" alt="Dakyo" />
+<img src="assets/banner.svg" width="100%" alt="DAKYO: Editor · Director · Thumbmaker · Vibe Coder" />
 
 <a href="https://github.com/oykaD"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=EF2B36&center=true&vCenter=true&width=520&lines=%2F%2F+Video+editor+%26+YouTube+channel+manager;%2F%2F+Thumbmaker%3A+thumbnails+that+get+the+click;%2F%2F+Learning+to+vibe+code+with+Claude;%2F%2F+Building+my+own+tools+for+creators;%2F%2F+Teaching+Claude+to+edit+in+Adobe+apps" alt="Typing intro" /></a>
 
@@ -106,4 +106,6 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:880808,100:0b0909&section=footer" width="100%" alt="" />
 
-<div align="center"><sub>// thanks for stopping by 🐊</sub></div>
+<div align="center"><img src="assets/hanafuda.svg" height="150" alt="Hanafuda earring" /></div>
+
+<div align="center"><sub>// thanks for stopping by</sub></div>

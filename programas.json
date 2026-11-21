@@ -14,6 +14,7 @@
   {"nome": "Deadlock Tracker", "repo": "oykaD/deadlock-tracker", "pasta": "9 Projetos futuros/Deadlock Tracker", "descricao": "Follows top Deadlock players and turns their replays into 1080p/4K videos"},
   {"nome": "Watcher", "repo": "oykaD/watcher", "pasta": "3 Programas de apoio/Watcher", "descricao": "Watches long streams for me: transcribes them and finds the moments worth a video"},
   {"nome": "Toon Factory", "repo": "y-void/toon-factory", "pasta": "3 Programas de apoio/Toon Factory", "descricao": "Simple 2D and 3D character creator that exports rigged models, built with a friend"},
+  {"nome": "Fonê", "repo": "oykaD/fone", "pasta": "3 Programas de apoio/Fonê", "descricao": "Listens to how a narration actually sounds and flags the words that came out wrong"},
   {"nome": "Zipa", "repo": "oykaD/zipa", "pasta": "3 Programas de apoio/Zipa", "descricao": "My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu"},
   {"nome": "Tab Recorder", "tipo": "extensao", "repo": "y-void/tab-recorder", "pasta": "6 Extensões/Tab Recorder", "descricao": "Records browser tabs and splits every song into its own file, built with a friend"},
   {"nome": "YouTube Auto AD", "tipo": "extensao", "repo": "oykaD/youtube-auto-ad", "pasta": "6 Extensões/YouTube Auto AD", "descricao": "Places mid-roll ad slots in YouTube Studio at the interval I choose"},

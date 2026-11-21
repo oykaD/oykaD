@@ -36,7 +36,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0` |
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.1.8` |
-| **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.3` |
+| **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.4` |
 | **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0.2` |
 
 #### MCP servers

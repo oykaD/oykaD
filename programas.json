@@ -22,5 +22,6 @@
   {"nome": "After Effects MCP", "tipo": "mcp", "repo": "oykaD/after-effects-mcp", "pasta": "4 MCP/After Effects MCP", "descricao": "Lets Claude build and check my After Effects scenes"},
   {"nome": "Premiere Pro MCP", "tipo": "mcp", "repo": "oykaD/premiere-pro-mcp", "pasta": "4 MCP/Premiere Pro MCP", "descricao": "Lets Claude cut, arrange and export my Premiere Pro timelines"},
   {"nome": "Photoshop MCP", "tipo": "mcp", "repo": "oykaD/photoshop-mcp", "pasta": "4 MCP/Photoshop MCP", "descricao": "Lets Claude design and retouch my thumbnails in Photoshop"},
-  {"nome": "O Cueca", "tipo": "bot", "repo": "oykaD/discord-bots", "pasta": "7 Bots/Discord Bots", "prefixo": "o-cueca-", "descricao": "Discord bot for the O Cueca channel community"}
+  {"nome": "O Cueca", "tipo": "bot", "repo": "oykaD/discord-bots", "pasta": "7 Bots/Discord Bots", "prefixo": "o-cueca-", "descricao": "Discord bot for the O Cueca channel community"},
+  {"nome": "News", "tipo": "bot", "repo": "oykaD/discord-bots", "pasta": "7 Bots/Discord Bots/news", "prefixo": "news-", "descricao": "Discord bot that posts the top news of the day"}
 ]

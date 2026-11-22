@@ -21,7 +21,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 <!-- programas:inicio -->
 | Project | What it does | Version |
 | --- | --- | --- |
-| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.4.1` |
+| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.4.2` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.8` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.4` |
 | **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v1.0.3` |
@@ -62,7 +62,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3.2` |
 | **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.0.9` |
-| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.4.5` |
+| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.4.6` |
 
 #### Discord bots
 

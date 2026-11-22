@@ -89,7 +89,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 ### `// find me`
 
-[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-880808?style=for-the-badge&labelColor=0b0909)](https://www.linkedin.com/in/dakyo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-880808?style=for-the-badge)](https://www.linkedin.com/in/dakyo/)
 [![Behance](https://img.shields.io/badge/Behance-880808?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/oykad)
 [![Twitch](https://img.shields.io/badge/Twitch-880808?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dakyo)
 [![Steam](https://img.shields.io/badge/Steam-880808?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/dakyo/)

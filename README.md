@@ -62,7 +62,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3.2` |
 | **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.1.0` |
-| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.4.6` |
+| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.4.7` |
 
 #### Discord bots
 

@@ -21,7 +21,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 <!-- programas:inicio -->
 | Project | What it does | Version |
 | --- | --- | --- |
-| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.4.2` |
+| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.4.3` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.8` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.4` |
 | **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v1.0.3` |
@@ -37,7 +37,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.2` |
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.3.6` |
 | **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.9` |
-| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0.3` |
+| **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0.4` |
 
 #### MCP servers
 

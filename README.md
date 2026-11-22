@@ -22,7 +22,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | Project | What it does | Version |
 | --- | --- | --- |
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.4.3` |
-| **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.8` |
+| **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.9` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.5` |
 | **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v1.0.4` |
 | **Portfolio Website** | My editing portfolio site | `v1.0.6` |
@@ -47,7 +47,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | --- | --- | --- |
 | **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.1.9` |
 | **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.1.2` |
-| **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.1.0` |
+| **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.1.1` |
 
 #### Plugins
 

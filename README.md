@@ -28,7 +28,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Portfolio Website** | My editing portfolio site | `v1.0.4` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v1.0` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.9` |
-| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.2.5` |
+| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.2.6` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.6.8` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0.4` |
@@ -45,7 +45,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 | MCP | What it does | Version |
 | --- | --- | --- |
-| **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.1.2` |
+| **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.1.3` |
 | **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.1.2` |
 | **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.0.9` |
 

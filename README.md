@@ -28,7 +28,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Portfolio Website** | My editing portfolio site | `v1.0.6` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v1.0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.1.0` |
-| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.2.9` |
+| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.3.0` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0.6` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.6.9` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0.5` |
@@ -68,8 +68,8 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 | Bot | What it does | Version |
 | --- | --- | --- |
-| **O Cueca** | Discord bot for the O Cueca channel community | `v1.0.8` |
-| **News** | Discord bot that posts the top news of the day | `v1.0.8` |
+| **O Cueca** | Discord bot for the O Cueca channel community | `v1.0.9` |
+| **News** | Discord bot that posts the top news of the day | `v1.0.9` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

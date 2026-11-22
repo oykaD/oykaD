@@ -35,7 +35,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.0.10` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0` |
-| **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.3.0` |
+| **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.3.1` |
 | **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.9` |
 | **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0.2` |
 

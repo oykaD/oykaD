@@ -28,9 +28,9 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Portfolio Website** | My editing portfolio site | `v1.0.4` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v1.0` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.9` |
-| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.2.4` |
+| **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.2.5` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0` |
-| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.6.7` |
+| **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.6.8` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0.4` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.0.10` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |

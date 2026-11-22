@@ -21,7 +21,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 <!-- programas:inicio -->
 | Project | What it does | Version |
 | --- | --- | --- |
-| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.3.9` |
+| **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.4.0` |
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.8` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.4` |
 | **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v1.0.3` |
@@ -34,7 +34,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0.4` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.0.10` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
-| **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0` |
+| **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.1` |
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.3.6` |
 | **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.9` |
 | **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0.2` |

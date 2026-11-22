@@ -32,7 +32,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0.2` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.6.9` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0.5` |
-| **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.0` |
+| **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.1` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.2` |
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.3.7` |

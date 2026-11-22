@@ -68,7 +68,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 | Bot | What it does | Version |
 | --- | --- | --- |
-| **O Cueca** | Discord bot for the O Cueca channel community | `v1.0.2` |
+| **O Cueca** | Discord bot for the O Cueca channel community | `v1.0.3` |
 | **News** | Discord bot that posts the top news of the day | `v1.0.1` |
 <!-- programas:fim -->
 

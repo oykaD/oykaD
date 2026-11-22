@@ -26,7 +26,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.5` |
 | **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v1.0.3` |
 | **Portfolio Website** | My editing portfolio site | `v1.0.5` |
-| **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v1.0` |
+| **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v1.0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.1.0` |
 | **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.2.8` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0` |

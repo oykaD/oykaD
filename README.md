@@ -61,7 +61,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | Extension | What it does | Version |
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3.2` |
-| **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.0.7` |
+| **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.0.8` |
 | **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.4.5` |
 
 #### Discord bots
@@ -69,7 +69,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | Bot | What it does | Version |
 | --- | --- | --- |
 | **O Cueca** | Discord bot for the O Cueca channel community | `v1.0.6` |
-| **News** | Discord bot that posts the top news of the day | `v1.0.5` |
+| **News** | Discord bot that posts the top news of the day | `v1.0.6` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

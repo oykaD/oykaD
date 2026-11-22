@@ -25,7 +25,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.8` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.4` |
 | **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v1.0.3` |
-| **Portfolio Website** | My editing portfolio site | `v1.0.3` |
+| **Portfolio Website** | My editing portfolio site | `v1.0.4` |
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v1.0` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.0.8` |
 | **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.2.3` |
@@ -69,7 +69,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | Bot | What it does | Version |
 | --- | --- | --- |
 | **O Cueca** | Discord bot for the O Cueca channel community | `v1.0.3` |
-| **News** | Discord bot that posts the top news of the day | `v1.0.1` |
+| **News** | Discord bot that posts the top news of the day | `v1.0.2` |
 <!-- programas:fim -->
 
 <sub>Most of these are private while they're in progress.</sub>

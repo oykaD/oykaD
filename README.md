@@ -45,7 +45,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 | MCP | What it does | Version |
 | --- | --- | --- |
-| **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.1.7` |
+| **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.1.8` |
 | **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.1.2` |
 | **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.0.9` |
 
@@ -68,7 +68,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 | Bot | What it does | Version |
 | --- | --- | --- |
-| **O Cueca** | Discord bot for the O Cueca channel community | `v1.0.7` |
+| **O Cueca** | Discord bot for the O Cueca channel community | `v1.0.8` |
 | **News** | Discord bot that posts the top news of the day | `v1.0.7` |
 <!-- programas:fim -->
 

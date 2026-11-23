@@ -32,10 +32,10 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0.6` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.6.9` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0.5` |
-| **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.3` |
+| **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.4` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.3` |
-| **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.3.9` |
+| **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.4.0` |
 | **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.9` |
 | **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0.4` |
 
@@ -47,7 +47,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | --- | --- | --- |
 | **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.1.9` |
 | **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.1.3` |
-| **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.1.2` |
+| **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.1.3` |
 
 #### Plugins
 

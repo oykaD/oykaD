@@ -29,7 +29,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **YouTube Live Downloader** | Grabs clips from YouTube lives while they're still on air, built for clippers | `v1.0.1` |
 | **Image Upscaler** | AI image enhancer for game frames and thumbnails, with faithful and creative modes | `v1.1.0` |
 | **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.3.0` |
-| **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0.6` |
+| **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0.7` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.6.9` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0.5` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.5` |
@@ -45,8 +45,8 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 
 | MCP | What it does | Version |
 | --- | --- | --- |
-| **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.1.9` |
-| **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.1.3` |
+| **After Effects MCP** | Lets Claude build and check my After Effects scenes | `v1.2.0` |
+| **Premiere Pro MCP** | Lets Claude cut, arrange and export my Premiere Pro timelines | `v1.1.4` |
 | **Photoshop MCP** | Lets Claude design and retouch my thumbnails in Photoshop | `v1.1.4` |
 
 #### Plugins

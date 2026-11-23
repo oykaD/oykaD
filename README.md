@@ -22,7 +22,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | Project | What it does | Version |
 | --- | --- | --- |
 | **Dakyo Studio** | Automatic video editor for faceless YouTube channels, with multi-language support | `v1.4.4` |
-| **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.0.9` |
+| **Kick Downloader** | Downloads Kick VODs or just the part you need, no website required | `v1.1.0` |
 | **YouTube Downloader** | Downloads YouTube videos straight into Premiere-ready files | `v1.1.6` |
 | **Social Media Downloader** | Downloads videos and audio from Twitter/X, Instagram, TikTok and more, ready for Premiere | `v1.0.5` |
 | **Portfolio Website** | My editing portfolio site | `v1.0.6` |
@@ -32,7 +32,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0.6` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.6.9` |
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.0.5` |
-| **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.2` |
+| **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.3` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.3` |
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.3.9` |

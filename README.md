@@ -38,7 +38,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.4.3` |
 | **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.9` |
 | **OP.GG Tracker** | League of Legends champion stats, runes and builds at a glance, without opening the website | `v0.9` |
-| **Overdrive FPS** | Sends each game to the right CPU cores for more FPS, with safe and reversible tweaks only | `v0.1` |
+| **Overdrive FPS** | Sends each game to the right CPU cores for more FPS, with safe and reversible tweaks only | `v0.2` |
 | **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0.5` |
 
 #### MCP servers
@@ -64,7 +64,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3.2` |
 | **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.1.1` |
-| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.5.1` |
+| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.5.4` |
 
 #### Discord bots
 

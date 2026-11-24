@@ -38,7 +38,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.4.3` |
 | **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.9` |
 | **OP.GG Tracker** | League of Legends champion stats, runes and builds at a glance, without opening the website | `v0.9` |
-| **Overdrive FPS** | Sends each game to the right CPU cores for more FPS, with safe and reversible tweaks only | `v1.0.4` |
+| **Overdrive FPS** | Sends each game to the right CPU cores for more FPS, with safe and reversible tweaks only | `v1.0.5` |
 | **Zipa** | My own WinRAR: opens ZIP, RAR, 7z and more, right from the right-click menu | `v1.0.5` |
 
 #### MCP servers

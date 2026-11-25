@@ -31,7 +31,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **Voice Cloner** | Clones voices and narrates scripts on my own GPU, no paid APIs | `v1.4.0` |
 | **Vocal Remover** | Splits vocals and music from any video or audio with AI, running on my own GPU | `v1.0.8` |
 | **Kontrol** | Minimal, Notion-style daily dashboard: habits, calendar, projects and goals | `v1.7.2` |
-| **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.1.5` |
+| **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.1.6` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.5` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
 | **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.3` |

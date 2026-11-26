@@ -34,7 +34,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.1.7` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.5` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
-| **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.3` |
+| **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.4` |
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.4.3` |
 | **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.9` |
 | **OP.GG Tracker** | League of Legends champion stats, runes and builds at a glance, without opening the website | `v0.9` |

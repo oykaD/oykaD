@@ -34,7 +34,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | **ZDR Agent** | Personal AI agent that learns from every conversation | `v1.2.0` |
 | **Compressor** | Shrinks images, videos and more to fit a size limit, like a 2 MB YouTube thumbnail | `v1.1.5` |
 | **Deadlock Tracker** | Follows top Deadlock players and turns their replays into 1080p/4K videos | planning |
-| **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.5` |
+| **Watcher** | Watches long streams for me: transcribes them and finds the moments worth a video | `v1.0.6` |
 | **Toon Factory** | Simple 2D and 3D character creator that exports rigged models, built with a friend | `v1.4.3` |
 | **Fonê** | Listens to how a narration actually sounds and flags the words that came out wrong | `v0.9` |
 | **OP.GG Tracker** | League of Legends champion stats, runes and builds at a glance, without opening the website | `v0.9` |
@@ -64,7 +64,7 @@ Now I'm also building my own **MCP servers** for **Premiere Pro, After Effects a
 | --- | --- | --- |
 | **Tab Recorder** | Records browser tabs and splits every song into its own file, built with a friend | `v1.3.2` |
 | **YouTube Auto AD** | Places mid-roll ad slots in YouTube Studio at the interval I choose | `v1.1.1` |
-| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.5.4` |
+| **Nano Prompter** | Fills Google Flow with ready-made image and video prompts from my channels' repos | `v1.5.6` |
 
 #### Discord bots
 
